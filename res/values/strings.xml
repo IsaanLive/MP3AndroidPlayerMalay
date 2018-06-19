@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">Lagu turun MP3</string>
+    <string name="market_url">com.euroasiamp3.in</string>
+    <string name="footer_message">Anda sedang menggunakan pemuat turun MP3</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Pengunaan perisian ini secara rasmi adalah terhad kepada fail audio yang terdapat secara bebas untuk kegunaan awam! Anda bersetuju untuk menggunakan perisian ini dalam terma dan syarat yang dispesifikasikan oleh undang-undang di Negara anda, Google Android Market dan pembawa terma perkhidmatan.Persian ini adalah semata-mata penghubung kepada enjin pencarian awam dan EuroAsia Singapore tidak bertanggungjawab dalam kes penyalahgunaan.Penggunaan secara haram adalah dilarang. Anda bertanggungjawab keatas tindakan anda sendiri.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">Lihat video</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Cari</string>
+    <string name="btn_topten_name">Lagu top</string>
+    <string name="btn_downloads_name">Muat turun</string>
+    <string name="btn_rate_name">Kadar Apl</string>
+    <string name="btn_share_name">Kongsi Aplikasi</string>
+    <string name="btn_cancel_name">Batal</string>
+    <string name="download_song">Muat turun lagu</string>
+    <string name="share_song">Kongsi lagu</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Masukan lagu atau artis</string>
+    
+    <!-- Names -->
+    <string name="no_results">Tiada keputusan ditemui</string>
+    <string name="error_results">Ralat dalam keputusan</string>
+    <string name="no_active">Jika anda tidak mempunyai sambungan Internet yang aktif atau mempunyai insyarat yang lemah. Sila hidupkan wi-fi atau data anda dan cuba lagi.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Dengar lagu ini</string>
+    <string name="dlmessage">Hey muat turun lagu ini :)</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Lagu gagal dimuatkan. Sila cuba sekali lagi. </string>
+    <string name="addedqueue">Muat turun ditambah dalam giliran</string>
+</resources>
